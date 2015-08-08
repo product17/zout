@@ -1,0 +1,11 @@
+{
+  "name": "zout",
+  "version": "1.0.0",
+  "description": "Base API for the workout devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
