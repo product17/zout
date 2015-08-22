@@ -1,4 +1,8 @@
-node_modules/
-bower_components/
-public/
+node_modules
+bower_components
+public
 .DS_Store
+
+.env
+Dockerfile
+docker-compose.yml
