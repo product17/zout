@@ -6,7 +6,11 @@ var express = require('express')
 ,   path    = require('path')
 ,   __root  = process.cwd();
 
-// Include all the modules
+/**
+Include each app through it's index file (which is the route file for that app)
+*/
+
+// Fitbit App
 var fitbit = require(path.join(__root, 'components/fitbit'));
 
 

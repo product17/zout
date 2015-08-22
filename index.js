@@ -11,6 +11,7 @@ var express   = require('express')
 
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Include all apps through the routes index file
 app.use(routes);
 
 
