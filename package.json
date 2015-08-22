@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.13.3",
     "express": "^4.13.3",
+    "express-session": "^1.11.3",
     "gulp": "^3.9.0",
     "gulp-task-listing": "^1.0.1",
     "jade": "^1.11.0",
